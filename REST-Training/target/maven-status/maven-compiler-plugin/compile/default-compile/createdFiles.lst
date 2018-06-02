@@ -1,0 +1,4 @@
+com\niit\skillmap\config\WebAppInitializer.class
+com\niit\skillmap\controller\HelloWorldController.class
+com\niit\skillmap\controller\EmployeeController.class
+com\niit\skillmap\config\AppConfig.class
